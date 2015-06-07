@@ -2458,6 +2458,9 @@ input[type="button"].btn-block {
 .glyphicon-search:before {
   content: "\e003";
 }
+.glyphicon-paypal:before {
+  content: "\f1ed";
+}
 .glyphicon-heart:before {
   content: "\e005";
 }
